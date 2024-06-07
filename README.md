@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a code challenge from Codecademy, in which I had the task to organise a game night event using the following python concepts: <br>
+In this project I organised a board game night event by analysing the availability of the guests and creating invitations using the following programming concepts:<br>
 * lists
 * dictionaries 
 * functions
